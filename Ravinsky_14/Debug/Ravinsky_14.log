@@ -1,0 +1,9 @@
+﻿  assistant.cpp
+  info.cpp
+D:\vs\Desktop\Ravinsky_14\Ravinsky_14\info.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+  person.cpp
+  professor.cpp
+  Ravinsky_14.cpp
+  student.cpp
+  Создание кода...
+  Ravinsky_14.vcxproj -> D:\vs\Desktop\Ravinsky_14\Debug\Ravinsky_14.exe
